@@ -2,6 +2,7 @@
   "dependencies": {
     "ethers": "^6.3.0",
     "global": "^4.4.0",
+    "nextjs": "^0.0.3",
     "sanity": "^3.7.1",
     "timeago.js": "^4.0.2",
     "vercel": "^29.0.3"
